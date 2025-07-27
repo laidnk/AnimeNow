@@ -25,7 +25,7 @@ This app is still in its beta stages so expect random crashes, missing content, 
 
 ## Features
 
-- [x] Ads Free
+- [x] Ads Free!
 - [x] No logins
 - [x] Custom video playback
 - [x] Airplay 2 Support
